@@ -6,6 +6,8 @@ for the latest post about this project and others.
 
 ![Image of Before and After results using this Tiny Yolo 3 Model](tinyyolo.png)
 
+![Image of Before and After results using this Tiny Yolo 3 Model](toysoldiers_comp.png)
+
 ## Reference
 
 	@article{YOLOv3,  
