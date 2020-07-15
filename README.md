@@ -1,6 +1,8 @@
 # Tiny-Yolo-3
 Google Colab Notebook for creating and testing a Tiny Yolo 3 real-time object detection model. This notebook manually creates the Tiny Yolo 3 model layer by layer allowing it to be customized for the constraints of your hardware. This approach exposes what is "under the hood" of the tiny-yolo architecture. This notebook can be run to create an .h5 file that can be downloaded from the notebook.
 
+Companion YouTube Video Tutorial: https://youtu.be/SWrTS63zgoU
+
 Like/Follow the [Black Magic AI Facebook page](https://www.facebook.com/Black-Magic-AI-109126344070229)
 for the latest post about this project and others.
 
