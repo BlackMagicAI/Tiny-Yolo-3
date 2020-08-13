@@ -1,7 +1,7 @@
 import time
 import picamera
 
-#Test program fpr video camera input on the raspberry Pi with screem preview.
+#Test program for video camera input on the raspberry Pi with screen preview.
 camera = picamera.PiCamera()
 
 try:
